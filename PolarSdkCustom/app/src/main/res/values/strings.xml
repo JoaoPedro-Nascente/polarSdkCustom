@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PolarSdkCustom</string>
+    <string name="connect">Connect to %s</string>
+    <string name="disconnect">Disconnect from %s</string>
+    <string name="autoConnect">Auto Connect</string>
+    <string name="scanDevices">Scan Devices</string>
+    <string name="scanDevicesOff"> Stop scanning</string>
+    <string name="hr">Stream HR</string>
+    <string name="hr_off">Stop streaming HR</string>
+    <string name="ecg">Stream ECG</string>
+    <string name="ecg_off">Stop streaming ECG</string>
+    <string name="acc">Stream ACC</string>
+    <string name="acc_off">Stop streaming ACC</string>
+</resources>
